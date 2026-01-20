@@ -6,7 +6,7 @@ This repository contains resources and documentation for Salesforce Architecture
 
 - **SFDC-Architect-100-QA.pdf**: A comprehensive collection of 100 Questions and Answers for Salesforce Architects, covering key concepts, best practices, and advanced topics.
 - **docs/**: Directory containing additional documentation
-  - **arch.html**: Salesforce architecture reference and guidelines
+  - **index.html**: Salesforce architecture reference and guidelines
 
 ## Usage
 
